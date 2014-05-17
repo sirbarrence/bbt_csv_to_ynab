@@ -26,6 +26,12 @@ node main.js EXPORT.CSV > import_to_ynab.csv
 cat EXPORT.CSV | node main.js > import_to_ynab.csv
 ```
 
+To make it easier to run on a regular basis, you might want to create a Bash alias.
+
+```bash
+alias bbt2ynab='node /Users/strongbad/bbt_csv_to_ynab/main.js'
+```
+
 ## License
 
 Copyright &copy; 2014 Barry Simpson MIT License
