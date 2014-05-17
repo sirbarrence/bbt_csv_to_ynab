@@ -9,7 +9,7 @@ When [YNAB](https://www.youneedabudget.com/) imports [BB&T's](https://www.bbt.co
 ## Installation
 
 ```bash
-git clone https://github.com/blabla/bbt_csv_to_ynab.git
+git clone https://github.com/sirbarrence/bbt_csv_to_ynab.git
 cd bbt_csv_to_ynab
 npm install
 ```
