@@ -1,0 +1,14 @@
+{
+  "name": "bbt_csv_to_ynab",
+  "version": "0.0.0",
+  "description": "Convert BB&T transaction CSV exports to the CSV format that YNAB understands.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barry Simpson",
+  "license": "MIT",
+  "dependencies": {
+    "csv": "^0.3.7"
+  }
+}
